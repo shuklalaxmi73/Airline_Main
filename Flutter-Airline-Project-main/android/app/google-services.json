@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834785665034",
+    "project_id": "flutter-airline-main-project",
+    "storage_bucket": "flutter-airline-main-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834785665034:android:cacf8e0bfa3efdf8a9fff3",
+        "android_client_info": {
+          "package_name": "com.example.aeroplane"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAcbQLh8BWAbu04SlfHGHwI4xXblClbOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
